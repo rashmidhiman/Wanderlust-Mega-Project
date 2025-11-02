@@ -25,7 +25,7 @@ function HomePage() {
       <div className="mx-4 md:mx-8 lg:mx-16">
         <BlogFeed />
         <h1 className="cursor-text pb-4 text-xl font-semibold dark:text-dark-primary sm:pb-0">
-          DevOps Driven CICD Pipeline for Web-App <br> 2021wc86498@wilp.bits-pilani.ac.in
+          DevOps Driven CICD Pipeline for Web-App - 2021wc86498@wilp.bits-pilani.ac.in
         </h1>
         <div className="flex flex-wrap">
           {posts.length === 0
